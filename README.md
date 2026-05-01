@@ -36,5 +36,5 @@ Predict loan approval status
 
 📈 Model Performance
 
-Accuracy: 100% (replace with your actual result)
+Accuracy: 100% 
 Evaluation Metrics: Confusion Matrix, Precision, Recall
